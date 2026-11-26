@@ -1,8 +1,8 @@
 # The World in One Day — Thursday, 26 November 2026
 
 [![make.fun](https://make.fun/badge/news-image-20261126.svg)](https://make.fun/bounty/news-image-20261126)
-[![rank](https://make.fun/badge/news-image-20261126/zonawallets-cell/news-image-20261126/rank.svg)](https://make.fun/bounty/news-image-20261126)
-[![reward](https://make.fun/badge/news-image-20261126/zonawallets-cell/news-image-20261126/reward.svg)](https://make.fun/bounty/news-image-20261126)
+[![rank](https://make.fun/badge/news-image-20261126/zonawallets-cell/news-image-20261126-rebuild/rank.svg)](https://make.fun/bounty/news-image-20261126)
+[![reward](https://make.fun/badge/news-image-20261126/zonawallets-cell/news-image-20261126-rebuild/reward.svg)](https://make.fun/bounty/news-image-20261126)
 
 One image that sums up the world's news of Thursday, 26 November 2026:
 a newspaper front page, drawn in code.
